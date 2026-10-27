@@ -43,3 +43,9 @@ ASSET_SOURCES.md
 - [520×577 PNG](assets/renewal-popup-520x577.png)
 - [팝업 시안 미리보기](popup-preview.html)
 - 최종 메인 로고는 사용자가 정정 제공한 UNION MARKET이며 UNION SOFT와 구분합니다.
+
+## 카테고리 아이콘 두 가지 스타일
+- [사진형·일러스트형 비교](category-icons.html)
+- [전체 에셋 폴더](assets/category-icons/)
+- [규격·파일 매핑·제작 출처](CATEGORY_ICONS.md)
+- 사진형 9종 PNG, 일러스트형 9종 SVG+PNG를 추가했습니다. 현재 홈 아이콘은 자동 교체하지 않았습니다.

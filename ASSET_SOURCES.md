@@ -48,3 +48,9 @@
 ## 520×577 팝업 공지
 - assets/renewal-popup-520x577.png: HTML/CSS 텍스트·최종 첨부 로고·기존 AI 식품 사진을 코드로 합성한 공지용 이미지입니다.
 - 실제 개편 완료나 런칭일을 뜻하지 않으며 리뉴얼 준비 안내용입니다.
+
+## 카테고리 아이콘 두 세트
+- assets/category-icons/*-photo.png 9종: openai-codex / chatgpt-image-generation의 1254×1254 원본(photo-atlas.png)에서 크롭·여백·배경 가장자리 정돈 후 512px PNG로 내보냈습니다. 실제 촬영본이 아닙니다.
+- assets/category-icons/*-illustration.svg 9종: SVG 코드 도형으로 제작, 동일 이름의 PNG 9종은 브라우저 캔버스로 512px 렌더링했습니다.
+- photo-set.png, illustration-set.png는 글자 라벨이 포함된 1024px 전체 세트 미리보기입니다. 사진·일러스트 개별 파일에는 글자가 없습니다.
+- 자세한 매핑과 사용 기준은 CATEGORY_ICONS.md를 참고하세요.
