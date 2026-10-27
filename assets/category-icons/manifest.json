@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "01-produce",
+      "label": "신선농산",
+      "photo": "01-produce-photo.png",
+      "illustration": {
+        "svg": "01-produce-illustration.svg",
+        "png": "01-produce-illustration.png"
+      }
+    },
+    {
+      "id": "02-meat",
+      "label": "축산",
+      "photo": "02-meat-photo.png",
+      "illustration": {
+        "svg": "02-meat-illustration.svg",
+        "png": "02-meat-illustration.png"
+      }
+    },
+    {
+      "id": "03-seafood",
+      "label": "수산",
+      "photo": "03-seafood-photo.png",
+      "illustration": {
+        "svg": "03-seafood-illustration.svg",
+        "png": "03-seafood-illustration.png"
+      }
+    },
+    {
+      "id": "04-seasoning",
+      "label": "조미·양념",
+      "photo": "04-seasoning-photo.png",
+      "illustration": {
+        "svg": "04-seasoning-illustration.svg",
+        "png": "04-seasoning-illustration.png"
+      }
+    },
+    {
+      "id": "05-processed",
+      "label": "가공식품",
+      "photo": "05-processed-photo.png",
+      "illustration": {
+        "svg": "05-processed-illustration.svg",
+        "png": "05-processed-illustration.png"
+      }
+    },
+    {
+      "id": "06-dairy",
+      "label": "유가공·냉장",
+      "photo": "06-dairy-photo.png",
+      "illustration": {
+        "svg": "06-dairy-illustration.svg",
+        "png": "06-dairy-illustration.png"
+      }
+    },
+    {
+      "id": "07-grains",
+      "label": "곡물·면·빵",
+      "photo": "07-grains-photo.png",
+      "illustration": {
+        "svg": "07-grains-illustration.svg",
+        "png": "07-grains-illustration.png"
+      }
+    },
+    {
+      "id": "08-packaging",
+      "label": "배달/포장용기",
+      "photo": "08-packaging-photo.png",
+      "illustration": {
+        "svg": "08-packaging-illustration.svg",
+        "png": "08-packaging-illustration.png"
+      }
+    },
+    {
+      "id": "09-beverages",
+      "label": "음료·주류",
+      "photo": "09-beverages-photo.png",
+      "illustration": {
+        "svg": "09-beverages-illustration.svg",
+        "png": "09-beverages-illustration.png"
+      }
+    }
+  ],
+  "rasterSize": {
+    "width": 512,
+    "height": 512
+  },
+  "photoSource": {
+    "provider": "openai-codex",
+    "model": "chatgpt-image-generation",
+    "original": "photo-atlas.png",
+    "originalWidth": 1254,
+    "originalHeight": 1254
+  },
+  "illustrationSource": "Code-authored SVG, rendered to PNG via browser canvas",
+  "preview": "../../category-icons.html"
+}
